@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucasstampini
+- 👀 I’m interested in improving my skills
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, C#, MYSQL and JAVA
+- 📫 How to reach me: lucasstampiniyokoyama@gmail.com or @yokoyamx on instagram.
