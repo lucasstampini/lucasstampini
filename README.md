@@ -2,6 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/LHZyixOnHwDDy.webp"  />
+<img align="center" height="250" src="https://i.giphy.com/LHZyixOnHwDDy.webp"  />
 
 ###
